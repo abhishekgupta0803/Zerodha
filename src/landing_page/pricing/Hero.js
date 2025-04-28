@@ -61,7 +61,6 @@ function Hero() {
             Sign up for free
           </button>
         </div>
-      
     </div>
   );
 }
